@@ -1,2 +1,4 @@
-#!/bin/bash
-up_to_date
+git pull
+git add
+git commit 
+git push
